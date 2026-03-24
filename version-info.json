@@ -1,7 +1,7 @@
 {
   "client": {
     "version": "1.0.2-beta",
-    "build-number": 3,
+    "build-number": 5,
     "url": "https://raw.githubusercontent.com/BThackClient/BThack-versions/main/client-1.0.2-beta.jar"
   },
   "loader": {
